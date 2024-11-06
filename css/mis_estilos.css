@@ -1,0 +1,67 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 jun 2023, 18:40:36
+    Author     : LABORATORIO E5
+*/
+
+body {
+    background-color: bisque;
+}
+
+/*            div {
+    margin: 10px;
+    background-color: yellow;
+    padding: 10px;
+    -moz-border-radius: 5px;
+    height: 300px;
+    width: 500px;
+}*/
+
+.mt_capa_1 {
+    margin: auto;
+    background-color: azure;
+    padding: 10px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    height: 200px;
+    width: 200px;
+}
+
+.mt_capa_2 {
+    margin: auto;
+    padding: 10px;
+    width: 200px;
+}
+
+.mt-contenedor {
+    width: 200px;
+    margin: auto;
+    border-color: blue;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
+
+.mt-login-user {
+    font-size: xx-large;
+    color: blue;
+}
+.mt-login-field {
+    margin: 4px;
+    padding: 5px;
+    border-color: darkorange;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+     cursor: pointer;
+}
+.mt-login-botton {
+    text-align: right;
+    padding: 15px;
+}
+
+.mt-img-login {
+    width: 100%;
+    height: 90px;
+}
